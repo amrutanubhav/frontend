@@ -2,5 +2,4 @@
 
 env.COMPONENT="frontend"
 env.APP="angularjs"
-
 angularjs()
